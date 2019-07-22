@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="send_message_via">Send message via…</string>
+    <string name="to">To</string>
+</resources>
